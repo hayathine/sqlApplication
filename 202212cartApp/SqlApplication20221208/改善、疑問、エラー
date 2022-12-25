@@ -1,0 +1,7 @@
+confirmの戻るでエラー
+session管理の使い方 
+①確定ボタンからpostを送信してControllerでinsertを実行
+MainControllerと別にCartControllerを作る？Controllをどの程度分割して整理するのが良いか。
+
+②確定ボタンから直接insertを実行したほうが良い？
+onclick
